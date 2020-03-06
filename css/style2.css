@@ -1,0 +1,86 @@
+bod{
+background-image: url (../img/1.jpg);
+background-repeat: no repeat;
+background-size: 100% 700px;
+}
+
+h1{
+    color: aliceblue;
+    
+}
+.simple-form{
+    padding-bottom:50px ;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 30px;
+background-color:rgba(0.3,0.3,0.3,0.3);
+text-align: center;
+margin: 100px 400px;
+    font-size: 18px;
+}
+
+.textbox input{
+border: none;
+outline: none;
+background: none;
+color: black;
+    font-weight: ;
+font-size: 20px;
+width: 80%;
+float: left;
+margin: 10px;
+}
+.textbox{
+width: 100%;
+    background-color: transparent;
+    padding-bottom:10px ;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+border-radius: 300px;
+    color: white;
+    border-color: white;
+border-style: solid;
+font-size: 18px;
+padding: 3 px;
+margin: 8px;
+border-bottom: 1px solid;
+}
+#button{
+width: 250px:
+padding: 10px;
+border-radius: 5px;
+outline: 0px;
+}
+#ph{
+width: 50px:
+padding: 10px;
+border-radius: 5px;
+outline: 0px;
+}
+#phone{
+width: 50px:
+padding: 10px;
+border-radius: 5px;
+outline: 0px;
+}
+#rd{
+
+}
+#but{
+color: white;
+font-size: 18px;
+}
+#butt{
+width: 250px:
+padding: 10px;
+border-radius: 5px;
+outline: 0px;
+background-color: #0c6996;
+border: 2px solid #01010c;
+color: aliceblue;
+font-size: 18px;
+}
+
